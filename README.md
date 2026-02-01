@@ -1,0 +1,1 @@
+# haskell-othello-ai
