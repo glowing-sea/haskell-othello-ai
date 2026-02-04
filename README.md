@@ -161,9 +161,12 @@ Both AIs work based on the following assumptions:
 
 This project is licensed under **CC BY-NC-ND 4.0** (Attribution-NonCommercial-NoDerivatives).
 
-### [IMPORTANT] For Current Students
+### ⚠️ [IMPORTANT] For Current Students
 This repository is for **reference and portfolio display only**. 
+
+* **Zero-Access Policy:** If you are a current student at **The Australian National University (ANU)** enrolled in a course that utilises these or similar assignments, **you are strictly prohibited from viewing, downloading, or interacting with this repository.** Please close the repository immediately if it is similar to the work you are doing.
 * **Copyright Notice:** All original code and reports are the intellectual property of the authors. All course-specific templates and task sheets belong to **The Australian National University (ANU)**.
-* **Academic Honesty:** Copying or adapting any part of this code for your own university assignments is considered **academic misconduct**. We encourage you to learn from the logic, but you must implement your own solutions.
+* **Academic Honesty:** Copying or adapting any part of this code for your own university assignments is considered **academic misconduct**. 
+* **Self-Reporting:** To ensure your own safety, if you have inadvertently viewed this code and it relates to your current coursework, you should close this repository immediately and consult your course convenor regarding academic integrity protocols.
 
 > **Redistribution, commercial use, or modification is strictly prohibited without explicit consent.**
