@@ -2,7 +2,7 @@
 Module      : AI
 Description : AIs for Othello
 Copyright   : (c) 2021 Haoting Chen
-License     : MIT
+License     : CC BY-NC-ND 4.0
 -}
 module AI where
 

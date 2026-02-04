@@ -2,7 +2,7 @@
 Module      : AITests
 Description : Tests for your AI functions
 Copyright   : (c) 2021 Haoting Chen
-License     : MIT
+License     : CC BY-NC-ND 4.0
 -}
 module AITests where
 
