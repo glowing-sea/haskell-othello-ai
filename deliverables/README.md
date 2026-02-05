@@ -1,3 +1,6 @@
+> [!IMPORTANT] 
+> If any links or files require a password, please use my **UTAS Application Number**. 
+
 ## Abstract
 
 **Title**: Othello AI Design and Implementation using Haskell
@@ -14,7 +17,7 @@
 
 **Project Weight**: [15%](https://github.com/glowing-sea/haskell-othello/blob/main/Task%20Sheet%20Assignment%203.pdf) of COMP1130
 
-**Project Mark**: 93 / 100
+**Project Mark**: [93](https://1drv.ms/f/c/4f49bb445ba8ff14/IgC-wOsVFEZoSpTf3QKQgPQlATR43PxNM1Op5wL73sWP8w8?e=gFK3oo) / 100
 
 **Deliverables**: [report](https://github.com/glowing-sea/haskell-othello-ai/blob/main/deliverables/report.pdf), [code](https://github.com/glowing-sea/haskell-othello-ai)
 
